@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+:root{
+    --cor-de-fundo: #00249b;
+    --verde: #228972;
+    --branco:#FFFF;
+    --botao-ativo:#9c0000;
+    --botao-inativo:#918200;
+    --texto-fundo:#831717;
+
+}
+
+body{
+    background-color:var(--cor-de-fundo);
+    color: var(--branco);
+    font-family: "chakra patch", "sans-serif";
+}
